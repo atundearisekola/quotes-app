@@ -102,7 +102,7 @@ class Home extends Component{
 
             <nav class="navigation__nav">
                 <ul class="navigation__list">
-                    <li class="navigation__item"><a href="/" class="navigation__link"><span>01</span>Home</a></li>
+                    <li class="navigation__item"><a href="#" class="navigation__link"><span>01</span>Home</a></li>
                     <li class="navigation__item"><a href="#" class="navigation__link"><span>02</span>Your benfits</a></li>
                     <li class="navigation__item"><a href="#" class="navigation__link"><span>03</span>Popular Qoutes</a></li>
                     <li class="navigation__item"><a href="#" class="navigation__link"><span>04</span>Quotes</a></li>
